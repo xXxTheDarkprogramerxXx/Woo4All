@@ -1,0 +1,19 @@
+C:\Users\eonvw\source\repos\Woocomerce product scrapper\Woocomerce product scrapper\bin\Debug\net5.0\HtmlAgilityPack.dll
+C:\Users\eonvw\source\repos\Woocomerce product scrapper\Woocomerce product scrapper\obj\Debug\net5.0\Woocomerce product scrapper.csproj.AssemblyReference.cache
+C:\Users\eonvw\source\repos\Woocomerce product scrapper\Woocomerce product scrapper\obj\Debug\net5.0\Woocomerce product scrapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eonvw\source\repos\Woocomerce product scrapper\Woocomerce product scrapper\obj\Debug\net5.0\Woocomerce product scrapper.AssemblyInfoInputs.cache
+C:\Users\eonvw\source\repos\Woocomerce product scrapper\Woocomerce product scrapper\obj\Debug\net5.0\Woocomerce product scrapper.AssemblyInfo.cs
+C:\Users\eonvw\source\repos\Woocomerce product scrapper\Woocomerce product scrapper\obj\Debug\net5.0\Woocomerce product scrapper.csproj.CoreCompileInputs.cache
+C:\Users\eonvw\source\repos\Woocomerce product scrapper\Woocomerce product scrapper\obj\Debug\net5.0\Woocomerce product scrapper.csproj.CopyComplete
+C:\Users\eonvw\source\repos\Woocomerce product scrapper\Woocomerce product scrapper\obj\Debug\net5.0\Woocomerce product scrapper.genruntimeconfig.cache
+C:\Users\eonvw\source\repos\Woocomerce product scrapper\Woocomerce product scrapper\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\eonvw\source\repos\Woocomerce product scrapper\Woocomerce product scrapper\bin\Debug\net5.0\woo4all.exe
+C:\Users\eonvw\source\repos\Woocomerce product scrapper\Woocomerce product scrapper\bin\Debug\net5.0\woo4all.deps.json
+C:\Users\eonvw\source\repos\Woocomerce product scrapper\Woocomerce product scrapper\bin\Debug\net5.0\woo4all.runtimeconfig.json
+C:\Users\eonvw\source\repos\Woocomerce product scrapper\Woocomerce product scrapper\bin\Debug\net5.0\woo4all.runtimeconfig.dev.json
+C:\Users\eonvw\source\repos\Woocomerce product scrapper\Woocomerce product scrapper\bin\Debug\net5.0\woo4all.dll
+C:\Users\eonvw\source\repos\Woocomerce product scrapper\Woocomerce product scrapper\bin\Debug\net5.0\ref\woo4all.dll
+C:\Users\eonvw\source\repos\Woocomerce product scrapper\Woocomerce product scrapper\bin\Debug\net5.0\woo4all.pdb
+C:\Users\eonvw\source\repos\Woocomerce product scrapper\Woocomerce product scrapper\obj\Debug\net5.0\woo4all.dll
+C:\Users\eonvw\source\repos\Woocomerce product scrapper\Woocomerce product scrapper\obj\Debug\net5.0\ref\woo4all.dll
+C:\Users\eonvw\source\repos\Woocomerce product scrapper\Woocomerce product scrapper\obj\Debug\net5.0\woo4all.pdb

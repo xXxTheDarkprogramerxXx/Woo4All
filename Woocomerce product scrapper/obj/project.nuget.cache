@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IKN4tNfxAd2nWFPtR99uT20IrNT8jk7KW+8HWWYQaqaSXaO1Ac1KI6SmygZF5ZhpNneGzvYQFrMc1lTmo6EHRg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eonvw\\source\\repos\\Woocomerce product scrapper\\Woocomerce product scrapper\\Woocomerce product scrapper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eonvw\\.nuget\\packages\\htmlagilitypack\\1.11.53\\htmlagilitypack.1.11.53.nupkg.sha512",
+    "C:\\Users\\eonvw\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

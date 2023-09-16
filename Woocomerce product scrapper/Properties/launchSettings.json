@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Woocomerce product scrapper": {
+      "commandName": "Project",
+      "commandLineArgs": "afrisupply.co.za -outputJson -useSitemap"
+    }
+  }
+}
